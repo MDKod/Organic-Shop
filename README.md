@@ -43,5 +43,5 @@ Nodemon
 <br>
 
 
-[!gif](/images/organic.gif)
+![gif](/images/organic.gif)
 
