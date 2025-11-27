@@ -1,32 +1,27 @@
 🥕 🍏 🥦 FLORIA NATURE
-Organik & Doğal Ürünler Online Satış Sitesi
+Organic & Natural Products — Online Store 
 
-Organik ve doğal ürünlerin çevrimiçi satışı için geliştirilmiş, Express.js tabanlı full-stack web uygulaması.
-Kullanıcı dostu arayüzü, hızlı backend mimarisi ve sade tasarımıyla hem öğrenme hem de gerçek kullanım açısından ideal bir proje.
-
-
-✨ Özellikler
-
-🥬 Organik & doğal ürün listeleme
-
-🛒 Ürün detay sayfaları
-
-➕ Sepete ekleme ve sepet yönetimi
-
-👩‍🌾 Doğa temalı sade ve modern tasarım
-
-🚀 Express.js ile backend API’leri
-
-🗂️ JSON tabanlı veri yapısı (data.json)
-
-📄 Overview & product detay sayfaları
-
-🔄 Middleware ile isteklere düzenli cevaplar
-
-♻️ Temiz kod, basit dosya yapısı
+A full-stack web application for selling organic and natural products online. Built with Express.js, this project focuses on a clean UI, fast backend APIs, and a simple structure — perfect for learning and real use.
 
 
-🧱 Kullanılan Teknolojiler
+✨ Features
+
+🥬 Organic & natural product listings
+
+👩‍🌾 Clean, nature-themed modern design
+
+🚀 Backend APIs powered by Express.js
+
+🗂️ JSON-based data store (data.json)
+
+📄 Overview & product detail pages
+
+🔄 Middleware for consistent request handling
+
+♻️ Clean code and a minimal file structure
+
+
+🧱 Technologies Used
 
 Node.js
 
@@ -42,11 +37,11 @@ Nodemon
 
 🎬PREVİEW
 
-[screenshot](organic-screenshot.png)
+[screenshot](/images/organic-screenshot.png)
 
 
 <br>
 
 
-[gif](organik.gif)
+[gif](/images/organic.gif)
 
