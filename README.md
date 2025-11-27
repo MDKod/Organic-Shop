@@ -37,11 +37,11 @@ Nodemon
 
 🎬PREVİEW
 
-[screenshot](/images/organic-screenshot.png)
+![screenshot](/images/organic-screenshot.png)
 
 
 <br>
 
 
-[gif](/images/organic.gif)
+[!gif](/images/organic.gif)
 
